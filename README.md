@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">The dataset used in this project is the Dogs vs. Cats dataset from Kaggle. It contains 25,000 images of dogs and cats, split into training and test sets.<br><br>Training set: 12,500 images of dogs and 12,500 images of cats.<br><br>Test set: 12,500 images (unlabeled).<br><br>You can download the dataset from Kaggle and place it in the data directory.</p>
+<p align="left">The dataset used in this project is the Dogs vs. Cats dataset from Kaggle. It contains 20000 images of dogs and cats, split into training and test sets.<br><br>You can download the dataset from Kaggle and place it in the data directory.</p>
 
 ###
 
